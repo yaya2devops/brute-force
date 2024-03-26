@@ -108,7 +108,6 @@ shop
 pub
 styles
 upload
-_notes
 error
 database
 ads
@@ -219,7 +218,6 @@ manager
 photos
 customavatars
 ru
-it
 mobile
 new
 script
@@ -314,7 +312,6 @@ pt
 webmail
 phpmyadmin
 _themes
-2007
 picture_library
 _backup
 typo3temp
@@ -424,7 +421,6 @@ goto
 emails
 imgs
 bg
-form
 tr
 _admin
 informer
@@ -433,9 +429,8 @@ facebook
 layout
 maps
 promo
-registration
+registrations
 9
-newsletters
 7
 debug
 5
@@ -544,8 +539,6 @@ track
 staging
 terms
 forumdata
-privacy-policy
-english
 logo
 lv
 orders
@@ -826,8 +819,10 @@ guest
 ckeditor
 admin2
 offer
-office
-pm
+
+
+
+
 security
 cpath
 categories
